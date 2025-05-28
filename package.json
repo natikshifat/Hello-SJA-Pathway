@@ -1,0 +1,25 @@
+{
+  "name": "hello-sja-pathway",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natikshifat/Hello-SJA-Pathway.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/natikshifat/Hello-SJA-Pathway/issues"
+  },
+  "homepage": "https://github.com/natikshifat/Hello-SJA-Pathway#readme",
+  "description": "",
+  "devDependencies": {
+    "stylelint": "^16.19.1",
+    "stylelint-config-standard": "^38.0.0"
+  }
+}
