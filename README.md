@@ -63,9 +63,9 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Job Search Tactics] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> The website will give you easy tips on how you can improve your job search tactics. You've got this, you're almost there!
 
 **[your_project__name]** is a...
 
