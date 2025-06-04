@@ -1,4 +1,37 @@
-.header {
-  color: teal;
+body {
   font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f9f9f9;
+  color: #333;
+}
+
+nav {
+  background: #004080;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+header, section, footer {
+  padding: 20px;
+  text-align: center;
+}
+
+button {
+  padding: 10px 15px;
+  background: #0066cc;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #004080;
 }
