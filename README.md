@@ -67,7 +67,7 @@ For more information on the importance of a professional README for your reposit
 
 > The website will give you easy tips on how you can improve your job search tactics. You've got this, you're almost there!
 
-**[your_project__name]** is a...
+**[Job Search Tactics]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -102,7 +102,7 @@ For more information on the importance of a professional README for your reposit
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
+- **[Click and Apply]**
 - **[key_feature_2]**
 - **[key_feature_3]**
 
