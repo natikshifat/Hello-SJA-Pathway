@@ -210,9 +210,9 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [https://github.com/natikshifat](https://github.com/githubhandle)
+- Twitter: [https://x.com/natikshifat1](https://twitter.com/twitterhandle)
+- LinkedIn: [https://www.linkedin.com/in/natikshifat/](https://linkedin.com/in/linkedinhandle)
 
 👤 **Author2**
 
@@ -228,8 +228,8 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
+- [ ] **[Easy Apply]**
+- [ ] **[Advanced Filter]**
 - [ ] **[new_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -250,7 +250,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project feel free to share this with your friends and community. It will help in further reachout.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -260,7 +260,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank all the open source models allowing me to learn and create such web apps which would encourage everyone to do the same by themeselves. Keep trying!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
